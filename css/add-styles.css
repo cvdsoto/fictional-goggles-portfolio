@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Work+Sans:wght@700&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#mainNav, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6  {
+  font-family: 'Work Sans', sans-serif;
+}
+
+#mainNav .navbar-brand {
+  font-size: 2.3em;
+}
+
+.bg-secondary {
+  background-color: #2a044a !important;
+}
+
+.footer {
+  background-color: #2a044a;
+}
+
+.copyright {
+  background-color: #1f003a;
+}
